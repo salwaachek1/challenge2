@@ -1,0 +1,6 @@
+h1{color:red;}
+#tab{border:2px solid #D2191A}
+th{text-align: center;}
+#msg{padding-top:20px; color:green;font-weight:bolder;font-size:20px;}
+.error{padding-top:20px; color:red;font-weight:bolder;font-size:20px;}
+.more{font-weight:bold;padding:5px;margin:5px;border:2px solid red;color:red;font-size:20px;text-decoration:none;}
