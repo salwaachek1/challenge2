@@ -1,9 +1,9 @@
 <?php
 
-require_once(__DIR__ . '\database.php');
-include(__DIR__ . '\log.php');
-include(__DIR__ . '\dto\resultDto.php');
-require('..\src\file-operations\upload.php');
+require_once __DIR__ . '\database.php';
+require __DIR__ . '\log.php';
+require __DIR__ . '\dto\resultDto.php';
+require '..\src\file-operations\upload.php';
 
 function uploadXmlFile($file): ResultDto
 {
